@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExercicioMenuMagalu" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/magalu_blue</item>
+        <item name="colorPrimaryVariant">@color/magalu_blue_dark</item>
+        <item name="android:statusBarColor">@color/magalu_blue</item>
+    </style>
+    <style name="Theme.ExercicioMenuMagalu" parent="Base.Theme.ExercicioMenuMagalu" />
+</resources>
